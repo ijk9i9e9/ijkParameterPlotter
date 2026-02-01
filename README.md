@@ -1,16 +1,9 @@
 # ijkParameterPlotter
-3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.
-
-<strong>version 1.0</strong>
- - 3D/2D Parametric equation plotting
- - Basic oscilloscope
- - Simple atomic orbital simulator
- - Infinite canvas
- - Spirograph
- - Parameter presets (SpinningRose, FlyingButterfly, CircularPolarizer, TumblingDonut)
- - Spinning graphs (customizeable speed)
-To adjust the ammount of steps, consult the last lines of code.
-# o------------------------ [ A P P E N D I X ] ------------------------o
+<h2>3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.</h2>
+<img width="649" height="931" alt="image" src="https://github.com/user-attachments/assets/7db3a4f6-a1d0-444b-92af-52f00d920e3d" />
+</br>
+ </br><blockquote>To adjust the ammount of rendering steps depending on your system, consult the last lines of code.</blockquote>
+<h1>o------------------------ [ A P P E N D I X ] ------------------------o</h1>
 <section>
     <h3>Presets</h3>
     <p>
