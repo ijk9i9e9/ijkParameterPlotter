@@ -1,6 +1,6 @@
 # ijkParameterPlotter
 <h2>3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.</h2>
-<img width="1827" height="1197" alt="image" src="https://github.com/user-attachments/assets/85c4d80e-d5d5-4e74-b387-1eb92981dc90" />
+<img width="1879" height="1121" alt="image" src="https://github.com/user-attachments/assets/5f6f987c-55bc-47f4-9541-5d9ef440af30" />
 </br>
  </br><blockquote>To adjust the ammount of rendering steps depending on your system, consult the last lines of code.</blockquote>
 <h1>o------------------------ [ A P P E N D I X ] ------------------------o</h1>
@@ -68,6 +68,8 @@
 # o----------------------------------------------------------------------------o
 <img width="649" height="931" alt="image" src="https://github.com/user-attachments/assets/7db3a4f6-a1d0-444b-92af-52f00d920e3d" />
 <p> - The main menu, with a chosen module.</p>
+<hr />
+<img width="1827" height="1197" alt="image" src="https://github.com/user-attachments/assets/85c4d80e-d5d5-4e74-b387-1eb92981dc90" />
 <hr />
 <img width="1881" height="1125" alt="image" src="https://github.com/user-attachments/assets/1e5cadef-01b1-4c82-a37a-434b2c48d2b4" />
  - Static image of the oscilloscope, still containing the appendix which has now been moved to the README.md for comfort.
