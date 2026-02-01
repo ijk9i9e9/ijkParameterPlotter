@@ -1,13 +1,13 @@
 # ijkParameterPlotter
 <h2>3D Parametric equation rendering in python turtle, designed for single runs in order to maximize performance.</h2>
-<img width="649" height="931" alt="image" src="https://github.com/user-attachments/assets/7db3a4f6-a1d0-444b-92af-52f00d920e3d" />
+<img width="1879" height="1121" alt="image" src="https://github.com/user-attachments/assets/03da13ce-f516-4159-89ba-603f9fcdc53b" />
 </br>
  </br><blockquote>To adjust the ammount of rendering steps depending on your system, consult the last lines of code.</blockquote>
 <h1>o------------------------ [ A P P E N D I X ] ------------------------o</h1>
 <section>
     <h3>Presets</h3>
     <p>
-      Basic programs are listed on the <b>left</b>; preset parametric equations are on the <b>right</b>.
+      Basic modules/programs are listed on the <b>left</b>; preset parametric equations are on the <b>right</b>.
     </p>
     <blockquote>
       <b>Note on *[...] Differential Systems:</b> Presets marked with an <b>asterisk (*)</b> use <i>Ordinary Differential Equations (ODEs)</i>. These are pre-calculated for performance, allowing ~7,500 points to render smoothly. Avoid multi-value color modes (1, 2, 3, 7) here to maintain clarity.
@@ -66,9 +66,8 @@
   </section>
 
 # o----------------------------------------------------------------------------o
-
-<img width="1879" height="1121" alt="image" src="https://github.com/user-attachments/assets/03da13ce-f516-4159-89ba-603f9fcdc53b" />
-<p> - Static image of the Lorenz Attractor plotted via the differential systems module.</p>
+<img width="649" height="931" alt="image" src="https://github.com/user-attachments/assets/7db3a4f6-a1d0-444b-92af-52f00d920e3d" />
+<p> - The main menu, with a chosen module.</p>
 <hr />
 <img width="1881" height="1125" alt="image" src="https://github.com/user-attachments/assets/1e5cadef-01b1-4c82-a37a-434b2c48d2b4" />
  - Static image of the oscilloscope, still containing the appendix which has now been moved to the README.md for comfort.
